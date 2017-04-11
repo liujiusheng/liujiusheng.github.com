@@ -1,5 +1,5 @@
 it's just a test.
 
-*GIS
+* GIS
 
-*FONTEND
+* FONTEND
